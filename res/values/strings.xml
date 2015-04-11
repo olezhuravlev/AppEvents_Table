@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">AppEvents_Table</string>
+    <string name="a_a_title">Activity-Activity</string>
+    <string name="a_f_title">Activity-Fragment</string>
+
+</resources>
